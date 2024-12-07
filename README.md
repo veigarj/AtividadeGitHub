@@ -1,2 +1,3 @@
 # AtividadeGitHub
-Atividade da Faculdade para criar repositorio
+README Criado
+Atividade da Faculdade para criar repositorio do GitHub
